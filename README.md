@@ -2,7 +2,8 @@
 
 Simple AVL Tree where you can insert and remove nodes from a balanced tree
 
-The output of the program shows each number and its level in the tree in the format "number,level". Level 0 is the root of the tree.
+The output of the program shows each number and its level in the tree in the format "number,level".\
+Level 0 is the root of the tree.
 
 To insert a node (for example number 3) just type "i 3"\
 To remove the node type "r 3"\
